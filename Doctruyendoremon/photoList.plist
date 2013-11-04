@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>imageName</key>
+		<string>image_0.png</string>
+		<key>text</key>
+		<string>trang1</string>
+	</dict>
+	<dict>
+		<key>imageName</key>
+		<string>image_1.png</string>
+		<key>text</key>
+		<string>trang2</string>
+	</dict>
+	<dict>
+		<key>imageName</key>
+		<string>image_2.png</string>
+		<key>text</key>
+		<string>trang3</string>
+	</dict>
+	<dict>
+		<key>imageName</key>
+		<string>image_3.png</string>
+		<key>text</key>
+		<string>trang4</string>
+	</dict>
+	<dict>
+		<key>imageName</key>
+		<string>image_4.png</string>
+		<key>text</key>
+		<string>trang 5</string>
+	</dict>
+	<dict>
+		<key>imageName</key>
+		<string>image_5.png</string>
+		<key>text</key>
+		<string>trang6</string>
+	</dict>
+	<dict>
+		<key>imageName</key>
+		<string>image_6.png</string>
+		<key>text</key>
+		<string>trang7</string>
+	</dict>
+	<dict>
+		<key>imageName</key>
+		<string>image_7.png</string>
+		<key>text</key>
+		<string>trang8</string>
+	</dict>
+	<dict>
+		<key>imageName</key>
+		<string>image_8.png</string>
+		<key>text</key>
+		<string>trang8</string>
+	</dict>
+	<dict>
+		<key>inageName</key>
+		<string>image_9.png</string>
+		<key>text</key>
+		<string>trang9</string>
+	</dict>
+</array>
+</plist>
